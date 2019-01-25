@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+header > img {
+    width: 45%;
+}
+
+body{
+    background-color: gold;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+html {
+    background-color: maroon;
+}
+
+body > img {
+    width: 75%;
+}
+}
